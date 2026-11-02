@@ -5,6 +5,9 @@
 ---
 
 ## <a name="english-version"></a>🇺🇸 English Version
+About the Project
+My name is Mikhail, and I am 14 years old. For the past six months, I have been deeply diving into Data Engineering and development best practices. This project was my personal challenge—a coding sprint that I designed and built from scratch to solidify my knowledge in OOP, API integration, and databases, and to truly test what I am capable of achieving.
+
 An elegant, production-ready, object-oriented ETL (Extract, Transform, Load) pipeline built with clean Python to gather top cryptocurrency metrics from CoinGecko API and save it into a local database.
 
 ### 🏗️ Architecture & Component Logic
@@ -25,6 +28,9 @@ python etl_pipeline.py 50 eur
 ---
 
 ## <a name="русская-версия"></a>🇷🇺 Русская версия
+О проекте
+Меня зовут Михаил, мне 14 лет. Последние полгода я активно изучаю Data Engineering и лучшие практики разработки. Этот проект — мой личный вызов (забег), который я спроектировал и написал с нуля, чтобы закрепить знания ООП, работы с API и базами данных, а также проверить, на что способны мои силы.
+
 Элегантный, объектно-ориентированный ETL-пайплайн на чистом Python для автоматического сбора и сохранения рыночных метрик криптовалют.
 
 ### 🏗️ Архитектура проекта и логика классов
